@@ -1,7 +1,8 @@
 # Phase_3_Project-
 
 Project Overview
- The project overview is solving a classification problem using the SyriaTel Customer Churn dataset to develope a classification model that can accurately identify customers at high risk of churning, allowing the company to implement targeted retention strategies
+
+   The project overview is solving a classification problem using the SyriaTel Customer Churn dataset to develope a classification model that can accurately identify customers at high risk of churning, allowing the company to implement targeted retention strategies
  
  ## BUSINESS UNDERSTANDING
 
